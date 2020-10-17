@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Hello Dimon4ik
+The first change
+=======
+Hello Dimon4ik my change
+>>>>>>> a2e1326... Change file
